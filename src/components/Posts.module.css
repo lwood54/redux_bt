@@ -1,0 +1,14 @@
+.ItemsContainer {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+        text-align: center;
+}
+
+.FetchItem {
+        max-width: 50vw;
+        border: 2px solid gray;
+        margin: 5px auto;
+        border-radius: 3px;
+}
